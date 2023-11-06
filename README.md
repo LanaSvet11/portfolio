@@ -1,6 +1,4 @@
-# MOD1-Project
-
-**Portfolio**
+# Portfolio
 
 [a link to the live site](https://portfolio-pysa.onrender.com)
 
