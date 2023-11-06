@@ -1,8 +1,49 @@
-# React + Vite
+# MOD1-Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Portfolio**
 
-Currently, two official plugins are available:
+[a link to the live site](https://portfolio-pysa.onrender.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
+
+Responsive Portfolio Website from Scratch using React and CSS animations.
+
+![Screenshot](./Screenshot1.png)
+
+![Screenshot](./Screenshot2.png)
+
+## Tech/framework used
+
+Built with: React, CSS, Visual Studio Code
+
+## Features
+
+- **Navbar**
+- **Hero**
+- **About**
+- **Experience**
+- **Projects**
+- **Contact**
+
+## Getting Started
+
+1. Clone this repository to your local machine:
+
+git clone https://github.com/LanaSvet11/portfolio.git
+
+2. Open the index.html file in your web browser to launch the application.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE file](./MIT%20License.txt) for details.
+
+## Contact
+
+If you have any questions or suggestions, please feel free to contact us:
+
+Email: holovatenko.dev@gmail.com
+LinkedIn: https://www.linkedin.com/in/svitlana-holovatenko/
